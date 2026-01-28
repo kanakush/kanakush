@@ -15,7 +15,7 @@ I build scalable, asynchronous systems that bridge the gap between user interfac
 ---
 
 ## 🛠 Tech Stack
-* **Languages**: Python (Expert), SQL.
+* **Languages**: Python, SQL.
 * **Web & API**: FastAPI, Uvicorn, Jinja2.
 * **Automation**: Aiogram, Scrapy, Selenium.
 * **Data**: Pandas, DuckDB, NumPy.
@@ -25,4 +25,4 @@ I build scalable, asynchronous systems that bridge the gap between user interfac
 
 ## 📫 How to reach me:
 * **Telegram**: kanat.kushembayev
-* **Email**: kanat.kushembayev@com
+* **Email**: kanat.kushembayev@gmail.com
