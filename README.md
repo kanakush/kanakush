@@ -1,5 +1,5 @@
-# Hi there, I'm👋
-Python Developer | Data & Automation Enthusiast
+# Hi there 👋
+i'm Python Developer | Data & Automation Enthusiast
 
 ## 🛠 Tech Stack
 * **Languages**: Python, SQL.
