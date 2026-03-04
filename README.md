@@ -1,5 +1,5 @@
-# Hi there, I'm kanakush 👋
-### Python Developer | Data & Automation Enthusiast
+# Hi there, I'm👋
+Python Developer | Data & Automation Enthusiast
 
 ## 🛠 Tech Stack
 * **Languages**: Python, SQL.
