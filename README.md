@@ -9,7 +9,7 @@ i'm Python Developer | Data & Automation Enthusiast
 * **DevOps**: Docker, Docker Compose, Git.
 
 ---
-Projects
+MY PROJECTS
 1. https://github.com/kanakush/chatbot-web-app
 🤖 Door_Openbot & Monitoring Dashboard​A comprehensive hybrid system for registering and managing facility access requests. It features a
 Telegram Bot for field personnel and a Web Dashboard for administrators and users.
