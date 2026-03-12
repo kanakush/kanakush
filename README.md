@@ -4,8 +4,8 @@ i'm Python Developer | Data & Automation Enthusiast
 ## 🛠 Tech Stack
 * **Languages**: Python, SQL.
 * **Web & API**: FastAPI, Uvicorn, Jinja2.
-* **Automation**: Aiogram, Scrapy, Selenium.
-* **Data**: Pandas, DuckDB, NumPy.
+* **Automation**: Aiogram.
+* **Data**: Pandas, NumPy.
 * **DevOps**: Docker, Docker Compose, Git.
 
 ---
