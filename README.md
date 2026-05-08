@@ -31,6 +31,7 @@ Core: Автоматизированный ETL-пайплайн: от экстр
 AI Integration: Использование локальных LLM (Llama 3.2 через Ollama) для интеллектуальной классификации тикетов.
 Smart Alerts: Система уведомлений в Telegram о статусе задач и критических ошибках.
 Stack: Python, Ollama, Oracle DB, Pandas, Docker.
+![SAO Flow AI](kanakush/SAO_Flow_AI.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 2. 🚀 Analytics Report Dashboard
 Support Monitoring & Root Cause Analysis https://github.com/kanakush/analytics  
@@ -39,6 +40,7 @@ This application connects to an Oracle Database, applies custom Root Cause mappi
 Высокопроизводительный дашборд для мониторинга тикетов техподдержки второй линии.
 Реализован кастомный маппинг "Root Cause" (причин возникновения проблем) для выявления трендов в реальном времени.
 Stack: Python, SQL, Oracle DB, Data Visualization.
+![Report Analytics](kanakush/AnalyticsReportDasboard.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 3. 🛰️ Telecom Smart L2 Gateway 
 Intelligent Python Interceptor API https://github.com/kanakush/gateway-api
@@ -48,14 +50,16 @@ and backend support levels.
 Высоконагруженный шлюз-перехватчик для интеллектуальной маршрутизации и фильтрации заявок техподдержки.
 Связующее звено между фронтенд-системами (PHP) и бэкендом поддержки.
 Stack: FastAPI / Python, API Integration, Intelligent Routing.
+![Smart Gateway](kanakush/SmartGateway.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 4. 🤖 Door_Openbot & Monitoring 
-Hybrid Facility Access Management System https://github.com/kanakush/chatbot-web-app
-​A comprehensive hybrid system for registering and managing facility access requests. It features a
+Hybrid Facility Access Management System https://github.com/kanakush/chatbot-web-app 
+Comprehensive hybrid system for registering and managing facility access requests. It features a
 Telegram Bot for field personnel and a Web Dashboard for administrators and users.
 Гибридная система для управления доступом: Telegram-бот для персонала в "поле" и веб-панель для администраторов.
 Полный цикл регистрации и обработки заявок на доступ к объектам.
 Stack: Python, Telegram Bot API, Web Dashboard.
+![SAO Flow AI](kanakush/Door_Openbot&Monitoring.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 How to reach me:
